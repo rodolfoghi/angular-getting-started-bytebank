@@ -41,6 +41,28 @@
       "destino": "123-98",
       "data": "2021-12-15T23:10:26.572Z",
       "id": "Mbzl8ng"
+    },
+    {
+      "valor": 890.99,
+      "destino": "RG001",
+      "data": "2021-12-15T23:16:48.105Z",
+      "id": "0wsNlMV"
+    },
+    {
+      "valor": 987.19,
+      "destino": "RG002",
+      "data": "2021-12-15T23:19:27.666Z",
+      "id": "oEnMnjJ"
+    },
+    {
+      "valor": 30,
+      "destino": "RG03",
+      "data": "2021-12-15T23:20:14.808Z",
+      "id": "EhVsrwR"
+    },
+    {
+      "data": "2021-12-15T23:20:18.944Z",
+      "id": "aTHisLt"
     }
   ]
 }
